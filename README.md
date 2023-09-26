@@ -6,3 +6,6 @@ Reuqired Packages
 3. Wisej 3 ClientClipBoard
 4. Wisej 3 FontAwesome
 5. Newtonsoft.Json
+
+Example
+<code>dxDataGrid1.Create();</code>
